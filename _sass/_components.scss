@@ -23,7 +23,7 @@
     }
   }
   .card-img {
-    margin-top: 20px;
+    padding: 10px;
     float:right;
     width: 15rem;
     @include media-query(767px) {
