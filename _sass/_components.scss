@@ -205,6 +205,7 @@ a.btn--large {
 
 
 .t-section-headline {
+  font-family: $base-font-family;
   padding: $spacing-unit*2 0;
   text-align: center;
   @include media-query(768px) {
